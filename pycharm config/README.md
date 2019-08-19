@@ -1,0 +1,1 @@
+`setting.zip` is a config file of pycharm. It had set the theme and the form of font.
